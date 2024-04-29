@@ -4,7 +4,7 @@
 This project involves developing servers and clients using three distributed communication technologies in Java: Java RMI, gRPC, and sockets. 
 
 
-*Project Objectives
+*Project Objectives: 
 Implement servers and clients using Java RMI, gRPC, and sockets.
 
 
