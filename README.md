@@ -3,23 +3,27 @@
 *Distributed sys Project : 
 This project involves developing servers and clients using three distributed communication technologies in Java: Java RMI, gRPC, and sockets. 
 
+
 *Project Objectives
 Implement servers and clients using Java RMI, gRPC, and sockets.
 
+
 *Specifications of Services to Implement : 
 
-*Java RMI: Task Management
+Java RMI: Task Management
 -Add a new task to the task list.
 -Remove an existing task from the list.
 -Retrieve the complete list of tasks.
 
-*gRPC: Messaging Service
+gRPC: Messaging Service
 -Send text messages to a specified recipient.
 -Retrieve received messages for a given user.
 
-*Sockets: Chat Service
+Sockets: Chat Service
 -Send text messages to a common chat room.
 -Retrieve messages sent by other users.
+
+
 
 
 *Comparative Report:
